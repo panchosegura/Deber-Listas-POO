@@ -1,0 +1,6 @@
+﻿  Source.cpp
+  Nodo.cpp
+  Generando código...
+f:\universidad\estructura de datos\deber listas con clases\lista circular\listacircularclase\listacircularclase\nodo.cpp(194): warning C4172: devolución de dirección de la variable local o temporal: dato
+  ListaCircularClase.vcxproj -> F:\Universidad\Estructura de Datos\Deber Listas con Clases\Lista Circular\ListaCircularClase\Debug\ListaCircularClase.exe
+  ListaCircularClase.vcxproj -> F:\Universidad\Estructura de Datos\Deber Listas con Clases\Lista Circular\ListaCircularClase\Debug\ListaCircularClase.pdb (Full PDB)

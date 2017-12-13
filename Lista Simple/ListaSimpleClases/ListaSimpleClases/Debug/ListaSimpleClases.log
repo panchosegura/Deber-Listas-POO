@@ -1,0 +1,4 @@
+﻿  Nodo.cpp
+f:\universidad\estructura de datos\deber listas con clases\lista simple\listasimpleclases\listasimpleclases\nodo.cpp(174): warning C4172: devolución de dirección de la variable local o temporal: dato
+  ListaSimpleClases.vcxproj -> F:\Universidad\Estructura de Datos\Deber Listas con Clases\Lista Simple\ListaSimpleClases\Debug\ListaSimpleClases.exe
+  ListaSimpleClases.vcxproj -> F:\Universidad\Estructura de Datos\Deber Listas con Clases\Lista Simple\ListaSimpleClases\Debug\ListaSimpleClases.pdb (Full PDB)
